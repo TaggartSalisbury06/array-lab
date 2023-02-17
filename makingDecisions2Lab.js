@@ -102,7 +102,7 @@ let someNum = 20
 if (myFavoriteNumbers.length < 7) {
   console.log("There are not enough elements in this array")
 } else if (myFavoriteNumbers.length > 7) {
-  someNum = myFavoriteNumbers.pop()
+  someNum = myFavoriteNumbers[7}
 }
 
 
